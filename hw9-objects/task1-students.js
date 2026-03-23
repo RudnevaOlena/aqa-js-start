@@ -4,5 +4,6 @@ student.lastName = 'Smith';
 student.age = 20;
 student.courses = ['Math', 'History', 'Programming'];
 console.log(student);
+//check ESLint
 const a = 1;
-console.log(a);
+console.log(b);
